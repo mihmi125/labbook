@@ -10,13 +10,13 @@ Eesmärk: Django + MySQL tehniline alus (broneerimisloogikat veel pole).
 
 | kuupäev | tegevus | driver | navigator | kes kontrollis | tulemus |
 |---|---|---|---|---|---|
-| | Ülesanne 1: arhitektuur | A | B | B | |
-| | Ülesanne 2: projekti alus, .gitignore | A | B | B | |
-| | 3. MySQL (mõlemal masinal) | A+B | A+B | | |
-| | 4. .env, settings.py, ühenduse test, migrate | B | A | A | |
-| | 5. home-vaade ja katsed 1–3 | A | B | B | |
-| | 6. KONTROLL.md, PAEVIK.md, commit | B | A | A | |
-| | 6.4 GitHub push (A); klooni ja käivita (B) | A / B | B / A | | |
+| 24.11.2026 | Ülesanne 1: arhitektuur | A | B | B | |
+| 24.11.2026 | Ülesanne 2: projekti alus, .gitignore | A | B | B | |
+| 24.11.2026 | 3. MySQL (mõlemal masinal) | A+B | A+B | | |
+| 24.11.2026 | 4. .env, settings.py, ühenduse test, migrate | B | A | A | |
+| 24.11.2026 | 5. home-vaade ja katsed 1–3 | A | B | B | |
+| 24.11.2026 | 6. KONTROLL.md, PAEVIK.md, commit | B | A | A | |
+| 24.11.2026 | 6.4 GitHub push (A); klooni ja käivita (B) | A / B | B / A | | |
 
 
 ## Arhitektuur
