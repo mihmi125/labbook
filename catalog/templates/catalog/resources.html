@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="et">
+<head><meta charset="utf-8"><title>LabBook – vahendid</title></head>
+<body>
+  <h1>LabBook: saadaval olevad vahendid</h1>
+  <ul>
+    {% for resource in resources %}
+      <li>{{ resource.name }} ({{ resource.category }})</li>
+    {% endfor %}
+  </ul>
+</body>
+</html>
